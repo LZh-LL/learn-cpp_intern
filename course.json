@@ -1,0 +1,20 @@
+{
+  "version": "1",
+  "title": "learn-cpp",
+  "author": "LZh",
+  "description": "实习课程：翻译+修改————learn-cpp",
+  "scenarios": [
+  
+    {
+      "title": "C/C++语言环境",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "steps": [
+        {
+          "title": "C语言环境",
+          "text": "setup/1.md"
+        }
+      ]
+    }
+    
+  ]
+}
