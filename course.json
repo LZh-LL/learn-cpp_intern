@@ -2,7 +2,7 @@
   "version": "1",
   "title": "learn-cpp",
   "author": "LZh",
-  "description": "实习课程：翻译+修改————learn-cpp",
+  "description": "实习课程：翻译+修改——learn-cpp",
   "scenarios": [
   
     {
@@ -12,7 +12,11 @@
         {
           "title": "第一步",
           "text": "scenarios/sce1-1.md"
-        }
+        },
+		{
+		  "title": "第二步",
+		  "text": "scenarios/sce1-2.md"
+		}
       ]
     }
     
