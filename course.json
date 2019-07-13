@@ -6,13 +6,17 @@
   "scenarios": [
   
     {
-      "title": "C/C++语言环境",
+      "title": "sce1:Hello,World!",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
       "steps": [
         {
-          "title": "C语言环境",
-          "text": "setup/1.md"
-        }
+          "title": "第一步",
+          "text": "scenarios/sce1-1.md"
+        },
+		{
+		  "title": "第二步"
+		  "text": "scenarios/sce1-2.md"
+		}
       ]
     }
     
