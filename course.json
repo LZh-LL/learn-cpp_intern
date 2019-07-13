@@ -6,19 +6,45 @@
   "scenarios": [
   
     {
+	  "title": "sce0:简介",
+	  "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "关于c++",
+          "text": "scenarios/sce0-1.md"
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "关于本课程",
+		  "text": "scenarios/sce0-2.md"
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	
       "title": "sce1:Hello,World!",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
           "title": "第一步",
           "text": "scenarios/sce1-1.md"
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
         },
 		{
 		  "title": "第二步",
 		  "text": "scenarios/sce1-2.md"
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
     }
     
+	{
+	
+	}
   ]
 }
