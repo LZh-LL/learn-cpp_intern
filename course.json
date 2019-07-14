@@ -43,19 +43,19 @@
 		  "text": "scenarios/sce1-2.md"
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		}，
+		},
 		{
 		  "title": "小试牛刀",
 		  "text": "scenarios/sce1-3.md"
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		}，
+		},
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce1-4.md"
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		}
+		},
 		{
 		  "title": "知识详解",
 		  "text": "scenarios/sce1-5.md"
