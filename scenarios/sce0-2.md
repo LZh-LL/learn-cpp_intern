@@ -1,4 +1,4 @@
-
+## 关于本课程
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 主要有以下三点：
@@ -17,14 +17,20 @@
 
 ### Terminal开启步骤
 1. 右键点开，选中下图红框部分（Open Terminal Here）：
-	![sce0-op11](https://github.com/LZh-LL/learn-cpp_intern/tree/master/images/sce0-op11.jpg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+	![sce0-op11](images/sce0-op11.png)
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 或者Applications-Terminal Emulator：
+
 	![sce0-op12](https://github.com/LZh-LL/learn-cpp_intern/tree/master/images/sce0-op12.png)
+	
 2. 在开启的Terminal窗口，右键点开，选中Input Methods-None/Simple:
+
 	![sce0-op2](https://github.com/LZh-LL/learn-cpp_intern/tree/master/images/sce0-op2.png)
+	
 3. 现在可以使用Terminal进行接下来的工作了，尝试输入ls查看当前路径下的文件：
+
 	![sce0-op3](https://github.com/LZh-LL/learn-cpp_intern/tree/master/images/sce0-op3.png)
 
 
