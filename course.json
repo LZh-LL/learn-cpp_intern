@@ -12,13 +12,13 @@
       "steps": [
         {
           "title": "关于c++",
-          "text": "scenarios/sce0-1.md"
+          "text": "scenarios/sce0-1.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
         },
 		{
 		  "title": "关于本课程",
-		  "text": "scenarios/sce0-2.md"
+		  "text": "scenarios/sce0-2.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
@@ -32,38 +32,37 @@
       "steps": [
         {
           "title": "知识概要",
-          "text": "scenarios/sce1-1.md"
+          "text": "scenarios/sce1-1.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
         },
 		{
 		  "title": "程序示例",
-		  "text": "scenarios/sce1-2.md"
+		  "text": "scenarios/sce1-2.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "小试牛刀",
-		  "text": "scenarios/sce1-3.md"
+		  "text": "scenarios/sce1-3.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "参考答案",
-		  "text": "scenarios/sce1-4.md"
+		  "text": "scenarios/sce1-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "知识详解",
-		  "text": "scenarios/sce1-5.md"
+		  "text": "scenarios/sce1-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	}
 	
-	[//]:#(第2章节)
 	{
 	  "title": "sce2:",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
@@ -71,31 +70,31 @@
       "steps": [
         {
           "title": "知识概要",
-          "text": "scenarios/sce2-1.md"
+          "text": "scenarios/sce2-1.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
         },
 		{
 		  "title": "程序示例",
-		  "text": "scenarios/sce2-2.md"
+		  "text": "scenarios/sce2-2.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "小试牛刀",
-		  "text": "scenarios/sce2-3.md"
+		  "text": "scenarios/sce2-3.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "参考答案",
-		  "text": "scenarios/sce2-4.md"
+		  "text": "scenarios/sce2-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "知识详解",
-		  "text": "scenarios/sce2-5.md"
+		  "text": "scenarios/sce2-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
