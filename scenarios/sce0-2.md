@@ -1,4 +1,4 @@
-## <center><h2>关于本课程</h2><center><hr/>
+<center><h2>关于本课程</h2><center><hr/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 主要有以下三点：<br/>
