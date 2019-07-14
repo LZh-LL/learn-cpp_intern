@@ -5,6 +5,7 @@
   "description": "实习课程：翻译+修改——learn-cpp",
   "scenarios": [
   
+	[//]:#(第0章节)
     {
 	  "title": "sce0:简介",
 	  "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
@@ -23,22 +24,41 @@
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
-    }
+    },
     
+	[//]:#(第1章节)
 	{
 	  "title": "sce1:Hello,World!",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
       "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
         {
-          "title": "第一步",
+          "title": "知识概要",
           "text": "scenarios/sce1-1.md"
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
         },
 		{
-		  "title": "第二步",
+		  "title": "程序示例",
 		  "text": "scenarios/sce1-2.md"
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}，
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce1-3.md"
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}，
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce1-4.md"
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce1-5.md"
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
