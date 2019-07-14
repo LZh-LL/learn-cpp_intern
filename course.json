@@ -8,20 +8,15 @@
 	[//]:#(第0章节)
     {
 	  "title": "sce0:简介",
-	  "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
-      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+	  "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
       "steps": [
         {
           "title": "关于c++",
           "text": "scenarios/sce0-1.md"
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
         },
 		{
 		  "title": "关于本课程",
 		  "text": "scenarios/sce0-2.md"
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
     },
@@ -29,38 +24,27 @@
 	[//]:#(第1章节)
 	{
 	  "title": "sce1:Hello,World!",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
-      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:latest",
       "steps": [
         {
           "title": "知识概要",
           "text": "scenarios/sce1-1.md"
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
         },
 		{
 		  "title": "程序示例",
 		  "text": "scenarios/sce1-2.md"
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "小试牛刀",
 		  "text": "scenarios/sce1-3.md"
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce1-4.md"
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		},
 		{
 		  "title": "知识详解",
 		  "text": "scenarios/sce1-5.md"
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	}
