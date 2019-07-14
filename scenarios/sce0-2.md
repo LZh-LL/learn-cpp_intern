@@ -5,7 +5,7 @@
 
 1. 教程整体结构
 2. 单个教程大致的内容安排
-3. 简要说明本课程中，面板开启Terminal（终端）的操作步骤
+3. 简要说明面板开启Terminal（终端）的操作步骤
 
 ### 教程整体结构
 	
@@ -18,12 +18,12 @@
 ### Terminal开启步骤
 1. 右键点开，选中下图红框部分（Open Terminal Here）：
 
-	![sce0-op11](images/sce0-op11.png)
+	![sce0-op11](images\sce0-op11.png)
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 或者Applications-Terminal Emulator：
 
-	![sce0-op12](https://github.com/LZh-LL/learn-cpp_intern/tree/master/images/sce0-op12.png)
+	![sce0-op12](E:\Study\THREE_\暑期实习\萃芸\github文件\learn-cpp_intern-master\images\sce0-op12.png)
 	
 2. 在开启的Terminal窗口，右键点开，选中Input Methods-None/Simple:
 
