@@ -5,7 +5,6 @@
   "description": "实习课程：翻译+修改——learn-cpp",
   "scenarios": [
   
-	[//]:#(第0章节)
     {
 	  "title": "sce0:简介",
 	  "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
@@ -26,7 +25,6 @@
       ]
     },
     
-	[//]:#(第1章节)
 	{
 	  "title": "sce1:Hello,World!",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
