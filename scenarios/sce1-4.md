@@ -12,6 +12,6 @@ int main(){
 ```
 其打印结果如下图所示：
 
-	! [sce1-op2](https://github.com/LZh-LL/learn-cpp_intern/tree/master/images/sce1-op2.png)<br/>
+	! [sce1-op2](/images/sce1-op2.png)<br/>
 
 

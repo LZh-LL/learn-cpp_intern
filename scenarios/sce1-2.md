@@ -1,7 +1,7 @@
-## 以打印"Hello,World!"为例
+## 程序示例
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-结合之前在sec0-关于本课程中的Terminal部分，我们以此进行以下操作：
+以打印"Hello,World!"为例，结合之前在sec0-关于本课程中的Terminal部分，我们以此进行以下操作：
 1. 打开Terminal，并更改输入方式
 2. 在桌面创建文件夹cc：
 ```r
@@ -39,4 +39,4 @@ ls
 ./a.out
 ```
 其打印结果如下图所示：<br/>
-	! [sce1-op1](https://github.com/LZh-LL/learn-cpp_intern/tree/master/images/sce1-op1.png)<br/>
+	! [sce1-op1](/images/sce1-op1.png)<br/>
