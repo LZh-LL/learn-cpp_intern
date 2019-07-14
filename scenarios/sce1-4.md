@@ -9,6 +9,6 @@ int main(){
 }
 ```
 其打印结果如下图所示：<br/>
-	! [sce1-op2](images/sce1-op2)<br/>
+	! [sce1-op2](images/sce1-op2.png)<br/>
 
 

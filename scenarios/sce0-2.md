@@ -16,13 +16,13 @@
 
 ### Terminal开启步骤
 1. 右键点开，选中下图红框部分（Open Terminal Here）：<br/>
-	![sce0-op11](images/sce0-op11)<br/>
+	![sce0-op11](images/sce0-op11.png)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 或者Applications-Terminal Emulator：<br/>
-	![sce0-op12](images/sce0-op12)<br/>
+	![sce0-op12](images/sce0-op12.png)<br/>
 2. 在开启的Terminal窗口，右键点开，选中Input Methods-None/Simple:<br/>
-	！[sce0-op2](images/sce0-op2)<br/>
+	！[sce0-op2](images/sce0-op2.png)<br/>
 3. 现在可以使用Terminal进行接下来的工作了，尝试输入ls查看当前路径下的文件：<br/>
-	! [sce0-op3](images/sce0-op3)<br/>
+	! [sce0-op3](images/sce0-op3.png)<br/>
 
 
