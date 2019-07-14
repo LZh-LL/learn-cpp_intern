@@ -39,4 +39,4 @@ ls
 ./a.out
 ```
 其打印结果如下图所示：<br/>
-	! [sce1-op1](images/sce1-op1.png)<br/>
+	! [sce1-op1](https://github.com/LZh-LL/learn-cpp_intern/tree/master/images/sce1-op1.png)<br/>
