@@ -23,7 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 或者Applications-Terminal Emulator：
 
-	![sce0-op12](E:\Study\THREE_\暑期实习\萃芸\github文件\learn-cpp_intern-master\images\sce0-op12.png)
+	![sce0-op12](E:/Study/THREE_/暑期实习/萃芸/github文件/learn-cpp_intern-master/images/sce0-op12.png)
 	
 2. 在开启的Terminal窗口，右键点开，选中Input Methods-None/Simple:
 
