@@ -4,7 +4,6 @@
   "author": "LZh",
   "description": "实习课程：翻译+修改——learn-cpp",
   "scenarios": [
-  
     {
 	  "title": "sce0:简介",
 	  "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
@@ -24,7 +23,6 @@
 		}
       ]
     },
-    
 	{
 	  "title": "sce1:Hello,World!",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
@@ -62,9 +60,8 @@
 		}
       ]
 	},
-	
 	{
-	  "title": "sce2:",
+	  "title": "sce2:变量和类型",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
       "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
       "steps": [
@@ -100,6 +97,5 @@
 		}
       ]
 	}
-	
   ]
 }
