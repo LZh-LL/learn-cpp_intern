@@ -23,7 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 或者Applications-Terminal Emulator：
 
-	![sce0-op2](/images/sce0-op2.png)
+	![sce0-op1](/images/sce0-op2.png)
 	
 2. 在开启的Terminal窗口，右键点开，选中Input Methods-None/Simple:
 
