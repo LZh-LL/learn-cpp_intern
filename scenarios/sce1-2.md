@@ -38,5 +38,6 @@ ls
 ```r
 ./a.out
 ```
-其打印结果如下图所示：<br/>
-	! [sce1-op1](/images/sce1-op1.png)<br/>
+其打印结果如下图所示：
+
+![sce1-op1](/images/sce1-op1.png)
