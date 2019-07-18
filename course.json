@@ -96,6 +96,635 @@
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
+	},
+	{
+	  "title": "sce3:数组",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce3-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce3-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce3-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce3-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce3-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce4:字符串",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce4-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce4-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce4-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce4-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce4-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce5:for循环",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce5-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce5-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce5-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce5-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce5-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce6:while循环",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce6-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce6-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce6-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce6-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce6-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce7:函数",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce7-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce7-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce7-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce7-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce7-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce8:引用作为函数参数",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce8-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce8-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce8-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce8-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce8-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce9:递归",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce9-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce9-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce9-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce9-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce9-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce10:结构",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce10-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce10-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce10-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce10-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce10-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce11:指针",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce11-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce11-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce11-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce11-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce11-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce12:链接列表",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce12-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce12-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce12-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce12-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce12-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce13:二叉树",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce13-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce13-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce13-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce13-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce13-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce14:类",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce14-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce14-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce14-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce14-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce14-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce15:动态内存分配",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce15-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce15-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce15-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce15-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce15-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce16:类继承",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce16-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce16-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce16-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce13-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce16-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce17:函数指针",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce17-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce17-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce17-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce17-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce17-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce18:模板元编程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce18-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce18-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce18-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce18-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce18-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
+	},
+	{
+	  "title": "sce19:泛式编程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
+      "binds": ["/kfcampus/public:/root/Desktop/myFile", "/userfile:/data:ro"],
+      "steps": [
+        {
+          "title": "知识概要",
+          "text": "scenarios/sce19-1.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+        },
+		{
+		  "title": "程序示例",
+		  "text": "scenarios/sce19-2.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "小试牛刀",
+		  "text": "scenarios/sce19-3.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "参考答案",
+		  "text": "scenarios/sce19-4.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		},
+		{
+		  "title": "知识详解",
+		  "text": "scenarios/sce19-5.md",
+		  "program": "scripts/program.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
+		}
+      ]
 	}
   ]
 }
