@@ -15,10 +15,12 @@
 ### 变量
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 变量实质上是一种用来标识信息的方法，给出一个简单的变量声明：
+
 ```r
-	int var;
-	var=5;
+int var;
+var=5;
 ```
+
 其中的int是一种类型，var是变量名，因此var能表示一个整数的值，第二个语句表明存储了一个整数5，我们不需要管它存在哪块内存，我们只需要使用var来进行其它工作（比如算术运算）。
 但是，在没有第二个赋值语句时，我们不知道var里存了什么（ps：根据全局/局部，动态/静态等的不同，不同的编译器处理方式可能不同，有的会默认为0，有的直接报错，所以无论什么变量，最好进行初始化操作）
 
@@ -36,11 +38,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 最后我们可以运用整型变量做个简单的算术运算：
+
 ```r
-	int a=0,b=1,c=2,d=3,e=4;
-	a=b-c+d*e;
-	cout<<a<<endl;
+int a=0,b=1,c=2,d=3,e=4;
+a=b-c+d*e;
+cout<<a<<endl;
 ```
+
 试试看，会打印出什么结果。
 
 
@@ -54,7 +58,7 @@
 * 浮点数，常定义使用float和double
 * 布尔型，true和false，取值分别为整数1和0
 * 空类型，void
-* 宽字符类型，wchar_t
+* 宽字符类型，wchar_t，实际也是一种整数类型
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 除了上述初学者常用的内置类型外，以后我们会接触的类型如下：
@@ -63,26 +67,32 @@
 3. 定义别名-typedef
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 其主要作用是为现有类型创建新名称，例如：
+
 ```r
 typedef int counter;
 counter tick_c = 100;
 ```
+
 tick_c实际上是一个整型变量。
 
 4. 枚举类型-enum
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 一般形式：
+
 ```r
 enum enum-name { list of name} var-list; 
 ```
+
 其中，eunm-name指的是这个数据类型的名称；list of name是枚举量；var-list是enum-name类型的变量列表。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 举例：
+
 ```r
 enum colour {red, green, blue} a_colour, another_colour;
 a_colour = green; //a_colour will be assigned value of '1'
 ```
+
 上述代码定义了一种枚举，其名字为colour，由于默认情况下编译器设置第一个枚举量为0，下一个为1，
 故red=0，green=1，blue=2。其实到了这一步（enum colour {red, green, blue}）还只是定义了一个数据类型，
 定义变量还需要有enum a_colour，上述代码在定义数据类型的同时定义了a_colour和another_colour两个变量，
