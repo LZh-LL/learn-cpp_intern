@@ -51,12 +51,6 @@
 		  "text": "scenarios/sce1-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce1-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	},
@@ -86,12 +80,6 @@
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce2-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce2-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
@@ -125,12 +113,6 @@
 		  "text": "scenarios/sce3-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce3-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	},
@@ -160,12 +142,6 @@
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce4-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce4-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
@@ -199,12 +175,6 @@
 		  "text": "scenarios/sce5-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce5-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	},
@@ -234,12 +204,6 @@
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce6-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce6-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
@@ -273,12 +237,6 @@
 		  "text": "scenarios/sce7-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce7-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	},
@@ -308,12 +266,6 @@
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce8-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce8-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
@@ -347,12 +299,6 @@
 		  "text": "scenarios/sce9-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce9-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	},
@@ -382,12 +328,6 @@
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce10-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce10-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
@@ -440,31 +380,7 @@
           "text": "scenarios/sce12-1.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-        },
-		{
-		  "title": "程序示例",
-		  "text": "scenarios/sce12-2.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "小试牛刀",
-		  "text": "scenarios/sce12-3.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "参考答案",
-		  "text": "scenarios/sce12-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce12-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		}
+        }
       ]
 	},
 	{
@@ -477,31 +393,7 @@
           "text": "scenarios/sce13-1.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-        },
-		{
-		  "title": "程序示例",
-		  "text": "scenarios/sce13-2.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "小试牛刀",
-		  "text": "scenarios/sce13-3.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "参考答案",
-		  "text": "scenarios/sce13-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce13-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		}
+        }
       ]
 	},
 	{
@@ -569,12 +461,6 @@
 		  "text": "scenarios/sce15-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce15-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	},
@@ -604,12 +490,6 @@
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce13-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce16-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
@@ -643,12 +523,6 @@
 		  "text": "scenarios/sce17-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce17-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	},
@@ -680,12 +554,6 @@
 		  "text": "scenarios/sce18-4.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce18-5.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
 		}
       ]
 	},
@@ -715,12 +583,6 @@
 		{
 		  "title": "参考答案",
 		  "text": "scenarios/sce19-4.md",
-		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
-		},
-		{
-		  "title": "知识详解",
-		  "text": "scenarios/sce19-5.md",
 		  "program": "scripts/program.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
 		}
